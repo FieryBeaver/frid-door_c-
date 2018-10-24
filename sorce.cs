@@ -1,10 +1,12 @@
-
+//using weardrobe.cs;
 using System;
-					
+using Math;				
 public class Program
 {
 	public static void Main()
 	{
+		
+		
 		// string test="test";
 		//Console.WriteLine(test.ToUpper());
 		//if(test.ToUpper()=="TEST")Console.WriteLine(test);
